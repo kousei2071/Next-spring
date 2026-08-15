@@ -1,5 +1,7 @@
 # Next.js × Spring Boot
 
+色々やってみるやつ
+
 ```
 Next-spring/
 ├── backend/    Spring Boot 4.1（Java 17, ポート 8080）
